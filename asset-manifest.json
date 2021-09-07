@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FirstBank-MindVolt/static/css/main.f701bec1.chunk.css",
-    "main.js": "/FirstBank-MindVolt/static/js/main.379b7703.chunk.js",
-    "main.js.map": "/FirstBank-MindVolt/static/js/main.379b7703.chunk.js.map",
+    "main.css": "/FirstBank-MindVolt/static/css/main.ec69e695.chunk.css",
+    "main.js": "/FirstBank-MindVolt/static/js/main.98ef3b4a.chunk.js",
+    "main.js.map": "/FirstBank-MindVolt/static/js/main.98ef3b4a.chunk.js.map",
     "runtime-main.js": "/FirstBank-MindVolt/static/js/runtime-main.86d7ebbe.js",
     "runtime-main.js.map": "/FirstBank-MindVolt/static/js/runtime-main.86d7ebbe.js.map",
     "static/js/2.e7d598e1.chunk.js": "/FirstBank-MindVolt/static/js/2.e7d598e1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3c64470e.chunk.js": "/FirstBank-MindVolt/static/js/3.3c64470e.chunk.js",
     "static/js/3.3c64470e.chunk.js.map": "/FirstBank-MindVolt/static/js/3.3c64470e.chunk.js.map",
     "index.html": "/FirstBank-MindVolt/index.html",
-    "static/css/main.f701bec1.chunk.css.map": "/FirstBank-MindVolt/static/css/main.f701bec1.chunk.css.map",
+    "static/css/main.ec69e695.chunk.css.map": "/FirstBank-MindVolt/static/css/main.ec69e695.chunk.css.map",
     "static/js/2.e7d598e1.chunk.js.LICENSE.txt": "/FirstBank-MindVolt/static/js/2.e7d598e1.chunk.js.LICENSE.txt",
     "static/media/BankLogo.7be9f892.png": "/FirstBank-MindVolt/static/media/BankLogo.7be9f892.png",
     "static/media/FirstBank-Main-Pic.a616a6d0.png": "/FirstBank-MindVolt/static/media/FirstBank-Main-Pic.a616a6d0.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.86d7ebbe.js",
     "static/js/2.e7d598e1.chunk.js",
-    "static/css/main.f701bec1.chunk.css",
-    "static/js/main.379b7703.chunk.js"
+    "static/css/main.ec69e695.chunk.css",
+    "static/js/main.98ef3b4a.chunk.js"
   ]
 }
